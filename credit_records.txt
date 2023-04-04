@@ -34,41 +34,41 @@ id  suspect         location              date          item  price
 32      Gertrude Cox      Burger Mart   January 2, 2018  cheeseburger   4.95
 33      Gertrude Cox      Burger Mart   January 3, 2018         fried   1.95
 34      Gertrude Cox      Burger Mart   January 3, 2018         fried   1.95
-35      Gertrude Cox   Groceries R Us   January 3, 2018     cucumbers   2.05
-36      Gertrude Cox  Petroleum Plaza   January 3, 2018   fizzy drink   1.90
-37      Gertrude Cox    Clothing Club   January 5, 2018         dress  20.15
-38      Gertrude Cox  Petroleum Plaza   January 5, 2018           gas  24.95
-39      Gertrude Cox      Burger Mart   January 6, 2018        burger   3.95
-40      Gertrude Cox    Clothing Club   January 6, 2018         dress  20.15
-41      Gertrude Cox  Petroleum Plaza   January 6, 2018           gas  24.95
-42      Gertrude Cox      Burger Mart   January 7, 2018         fried   1.95
-43      Gertrude Cox    Clothing Club   January 7, 2018         shirt  14.25
-44      Gertrude Cox    Clothing Club   January 7, 2018         dress  20.15
-45      Gertrude Cox   Groceries R Us   January 9, 2018      broccoli   1.25
-46      Gertrude Cox   Groceries R Us   January 9, 2018        cheese   5.00
-47      Gertrude Cox  Petroleum Plaza   January 9, 2018       carwash  13.25
-48      Gertrude Cox  Petroleum Plaza   January 9, 2018       carwash  13.25
-49    Kirstine Smith   Groceries R Us   January 1, 2018     cucumbers   2.05
-50    Kirstine Smith   Groceries R Us   January 1, 2018          milk   4.25
-51    Kirstine Smith  Petroleum Plaza   January 1, 2018       carwash  13.25
-52    Kirstine Smith  Petroleum Plaza   January 1, 2018           gas  24.95
-53    Kirstine Smith      Burger Mart  January 10, 2018  cheeseburger   4.95
-54    Kirstine Smith    Clothing Club  January 10, 2018         shirt  14.25
-55    Kirstine Smith    Clothing Club  January 11, 2018         dress  20.15
-56    Kirstine Smith   Groceries R Us  January 11, 2018     cucumbers   2.05
-57    Kirstine Smith  Petroleum Plaza  January 11, 2018   fizzy drink   1.90
-58    Kirstine Smith    Clothing Club  January 12, 2018         dress  20.15
-59    Kirstine Smith  Petroleum Plaza  January 12, 2018           gas  24.95
-60         Kirstine Smith   Groceries R Us  January 14, 2018          milk   4.25
-61         Kirstine Smith    Clothing Club   January 2, 2018         pants  12.05
-62         Kirstine Smith      Burger Mart   January 3, 2018         fried   1.95
-63         Kirstine Smith      Burger Mart   January 3, 2018  cheeseburger   4.95
-64         Kirstine Smith   Groceries R Us   January 3, 2018      broccoli   1.25
-65         Kirstine Smith   Groceries R Us   January 3, 2018      broccoli   1.25
-66         Kirstine Smith   Groceries R Us   January 3, 2018          milk   4.25
-67         Kirstine Smith   Groceries R Us   January 3, 2018        cheese   5.00
-68         Kirstine Smith      Burger Mart   January 4, 2018  cheeseburger   4.95
-69         Kirstine Smith    Clothing Club   January 5, 2018         dress  20.15
+35    Gertrude Cox   Groceries R Us   January 3, 2018     cucumbers   2.05
+36    Gertrude Cox  Petroleum Plaza   January 3, 2018   fizzy drink   1.90
+37    Gertrude Cox    Clothing Club   January 5, 2018         dress  20.15
+38    Gertrude Cox  Petroleum Plaza   January 5, 2018           gas  24.95
+39    Gertrude Cox      Burger Mart   January 6, 2018        burger   3.95
+40    Gertrude Cox    Clothing Club   January 6, 2018         dress  20.15
+41    Gertrude Cox  Petroleum Plaza   January 6, 2018           gas  24.95
+42    Gertrude Cox      Burger Mart   January 7, 2018         fried   1.95
+43    Gertrude Cox    Clothing Club   January 7, 2018         shirt  14.25
+44    Gertrude Cox    Clothing Club   January 7, 2018         dress  20.15
+45    Gertrude Cox   Groceries R Us   January 9, 2018      broccoli   1.25
+46    Gertrude Cox   Groceries R Us   January 9, 2018        cheese   5.00
+47    Gertrude Cox  Petroleum Plaza   January 9, 2018       carwash  13.25
+48    Gertrude Cox  Petroleum Plaza   January 9, 2018       carwash  13.25
+49  Kirstine Smith   Groceries R Us   January 1, 2018     cucumbers   2.05
+50  Kirstine Smith   Groceries R Us   January 1, 2018          milk   4.25
+51  Kirstine Smith  Petroleum Plaza   January 1, 2018       carwash  13.25
+52  Kirstine Smith  Petroleum Plaza   January 1, 2018           gas  24.95
+53  Kirstine Smith      Burger Mart  January 10, 2018  cheeseburger   4.95
+54  Kirstine Smith    Clothing Club  January 10, 2018         shirt  14.25
+55  Kirstine Smith    Clothing Club  January 11, 2018         dress  20.15
+56  Kirstine Smith   Groceries R Us  January 11, 2018     cucumbers   2.05
+57  Kirstine Smith  Petroleum Plaza  January 11, 2018   fizzy drink   1.90
+58  Kirstine Smith    Clothing Club  January 12, 2018         dress  20.15
+59  Kirstine Smith  Petroleum Plaza  January 12, 2018           gas  24.95
+60  Kirstine Smith   Groceries R Us  January 14, 2018          milk   4.25
+61  Kirstine Smith    Clothing Club   January 2, 2018         pants  12.05
+62  Kirstine Smith      Burger Mart   January 3, 2018         fried   1.95
+63  Kirstine Smith      Burger Mart   January 3, 2018  cheeseburger   4.95
+64  Kirstine Smith   Groceries R Us   January 3, 2018      broccoli   1.25
+65  Kirstine Smith   Groceries R Us   January 3, 2018      broccoli   1.25
+66  Kirstine Smith   Groceries R Us   January 3, 2018          milk   4.25
+67  Kirstine Smith   Groceries R Us   January 3, 2018        cheese   5.00
+68  Kirstine Smith      Burger Mart   January 4, 2018  cheeseburger   4.95
+69  Kirstine Smith    Clothing Club   January 5, 2018         dress  20.15
 70         Kirstine Smith      Burger Mart   January 6, 2018  cheeseburger   4.95
 71         Kirstine Smith   Groceries R Us   January 7, 2018          milk   4.25
 72         Kirstine Smith  Petroleum Plaza   January 8, 2018           gas  24.95
